@@ -1,0 +1,2 @@
+# profile_assignmnet
+This assignment aimed at recreating a webpage.  It was really helpful in reinforcing the lego approach to organizing content on the page.  I eternalized the value of boxing out a picture of the webpage before even touching any code.  There were aspects that were challenging.  Specifically, I really wanted to focus on scalability.  This was a great project in terms of where I could be general vs. more specific with CSS selectors.
